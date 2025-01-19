@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+button#incrementButton {
+  background-color: green;
+}
+button#decrementButton {
+  background-color: red;
+}
+
+#number {
+  font-size: 48px;
+  color: magenta;
+}
